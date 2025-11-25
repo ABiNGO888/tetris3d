@@ -1,0 +1,14 @@
+{
+  "appId": "com.glass.tetris",
+  "appName": "Glass Tetris 3D",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  },
+  "plugins": {
+    "StatusBar": {
+      "style": "DARK",
+      "overlaysWebView": true
+    }
+  }
+}

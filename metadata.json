@@ -1,0 +1,5 @@
+{
+  "name": "Glass Tetris 3D",
+  "description": "A photorealistic 3D Tetris game with glass material blocks, global illumination, and floating UI, designed for transparency-enabled displays.",
+  "requestFramePermissions": []
+}
